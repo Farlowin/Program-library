@@ -1,0 +1,21 @@
+[
+    {
+      "name": "App 1",
+      "icon": "icon1.png",
+      "link_down_load": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.6.5/zapret-discord-youtube-1.6.5.rar",
+      "description": "This is a detailed description of App 1. It has many features like...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "name": "App 2",
+      "icon": "icon2.png",
+      "link_down_load": "https://github.com/Farlowin/Program-library/raw/main/GUI/1.zip",
+      "description": "This is a detailed description of App 2. It offers unique features...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "name": "App 3",
+      "icon": "icon3.png",
+      "link_down_load": "https://example.com/download/app3",
+      "description": "This is a detailed description of App 3. It provides amazing functionality...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+  
