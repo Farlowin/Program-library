@@ -2,61 +2,61 @@
   {
     "name": "Obs Otrical beta",
     "icon": "icon1.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Obs Otrical beta.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Obs_Otrical_beta.zip",
     "description": "Программа для скрытие obs (v 1.1)."
   },
   {
     "name": "Kaspersky v1",
     "icon": "icon2.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v1.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Kaspersky_v1.zip",
     "description": "Программа для фейк ошибок (v 1.1)."
   },
   {
     "name": "Kaspersky v3",
     "icon": "icon7.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v3.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Kaspersky_v3.zip",
     "description": "Обновление программы Kaspersky (v 3.0)."
   },
   {
     "name": "WebWay v1",
     "icon": "icon3.png",
-    "link_down_load": "http://192.168.0.4:7878/download/WebWay v1.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/WebWay_v1.zip",
     "description": "Браузер WebWay v1."
   },
   {
     "name": "WebWay v2",
     "icon": "icon5.png",
-    "link_down_load": "http://192.168.0.4:7878/download/WebWay v2.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/WebWay_v2.zip",
     "description": "Браузер WebWay v2."
   },
   {
     "name": "Cs2 Fake",
     "icon": "icon4.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Cs2 Fake.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Cs2_Fake.zip",
     "description": "cs fake главное: Главное поменять start.exe на cs2.exe2."
   },
   {
     "name": "Everything Fake",
     "icon": "icon6.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Fake Everything.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Fake_Everything.zip",
     "description": "Фейковый Everything."
   },
   {
     "name": "Oblome",
     "icon": "icon8.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Oblome.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Oblome.zip",
     "description": "Программа для демонстрации экрана."
   },
   {
     "name": "LK",
     "icon": "icon9.png",
-    "link_down_load": "http://192.168.0.4:7878/download/LK.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/LK.zip",
     "description": "Програма для создание ярлыков мусорки."
   },
   {
     "name": "ServerClient v1",
     "icon": "icon10.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Cs2.zip",
+    "link_down_load": "http://83.147.244.226:7878/download/Cs2.zip",
     "description": "ServerClient Cs2 v1."
   }
 ]
