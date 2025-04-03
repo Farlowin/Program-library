@@ -12,16 +12,16 @@
     "description": "Программа для фейк ошибок (v 1.1)."
   },
   {
+    "name": "Kaspersky v3",
+    "icon": "icon7.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v3.zip",
+    "description": "Обновление программы Kaspersky (v 3.0)."
+  },
+  {
     "name": "WebWay v1",
     "icon": "icon3.png",
     "link_down_load": "http://192.168.0.4:7878/download/WebWay v1.zip",
-    "description": "Бразуер WebWay v1."
-  },
-  {
-    "name": "Cs2 Fake",
-    "icon": "icon4.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Cs2 Fake.zip",
-    "description": "cs fake главное: Главное поменять start.exe на cs2.exe2."
+    "description": "Браузер WebWay v1."
   },
   {
     "name": "WebWay v2",
@@ -30,16 +30,16 @@
     "description": "Браузер WebWay v2."
   },
   {
+    "name": "Cs2 Fake",
+    "icon": "icon4.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Cs2 Fake.zip",
+    "description": "cs fake главное: Главное поменять start.exe на cs2.exe2."
+  },
+  {
     "name": "Everything Fake",
     "icon": "icon6.png",
     "link_down_load": "http://192.168.0.4:7878/download/Fake Everything.zip",
     "description": "Фейковый Everything."
-  },
-  {
-    "name": "Kaspersky v3",
-    "icon": "icon7.png",
-    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v3.zip",
-    "description": "Обновление программы Kaspersky (v 3.0)."
   },
   {
     "name": "Oblome",
