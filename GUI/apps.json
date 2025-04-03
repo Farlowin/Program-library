@@ -1,21 +1,62 @@
 [
-    {
-      "name": "App 1",
-      "icon": "icon1.png",
-      "link_down_load": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.6.5/zapret-discord-youtube-1.6.5.rar",
-      "description": "This is a detailed description of App 1. It has many features like...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-      "name": "App 2",
-      "icon": "icon2.png",
-      "link_down_load": "https://github.com/Farlowin/Program-library/raw/main/GUI/1.zip",
-      "description": "This is a detailed description of App 2. It offers unique features...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-      "name": "App 3",
-      "icon": "icon3.png",
-      "link_down_load": "https://example.com/download/app3",
-      "description": "This is a detailed description of App 3. It provides amazing functionality...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
-    }
-  ]
-  
+  {
+    "name": "Obs Otrical beta",
+    "icon": "icon1.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Obs Otrical beta.zip",
+    "description": "Программа для скрытие obs (v 1.1). Важно: Чтобы полностью закрыть прогу через диспетчер задач."
+  },
+  {
+    "name": "Kaspersky v1",
+    "icon": "icon2.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v1.zip",
+    "description": "Программа для фейк ошибок (v 1.1)."
+  },
+  {
+    "name": "WebWay v1",
+    "icon": "icon3.png",
+    "link_down_load": "http://192.168.0.4:7878/download/WebWay v1.zip",
+    "description": "Бразуер WebWay v1."
+  },
+  {
+    "name": "Cs2 Fake",
+    "icon": "icon4.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Cs2 Fake.zip",
+    "description": "cs fake главное: Главное поменять start.exe на cs2.exe2."
+  },
+  {
+    "name": "WebWay v2",
+    "icon": "icon5.png",
+    "link_down_load": "http://192.168.0.4:7878/download/WebWay v2.zip",
+    "description": "Браузер WebWay v2."
+  },
+  {
+    "name": "Everything Fake",
+    "icon": "icon6.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Fake Everything.zip",
+    "description": "Фейковый Everything."
+  },
+  {
+    "name": "Kaspersky v3",
+    "icon": "icon7.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Kaspersky v3.zip",
+    "description": "Обновление программы Kaspersky (v 3.0)."
+  },
+  {
+    "name": "Oblome",
+    "icon": "icon8.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Oblome.zip",
+    "description": "Программа для демонстрации экрана."
+  },
+  {
+    "name": "LK",
+    "icon": "icon9.png",
+    "link_down_load": "http://192.168.0.4:7878/download/LK.zip",
+    "description": "Програма для создание ярлыков мусорки."
+  },
+  {
+    "name": "ServerClient v1",
+    "icon": "icon10.png",
+    "link_down_load": "http://192.168.0.4:7878/download/Cs2.zip",
+    "description": "ServerClient Cs2 v1."
+  }
+]
